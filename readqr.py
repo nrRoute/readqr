@@ -2,6 +2,7 @@ import cv2
 import tkinter as tk
 import PIL.Image
 import PIL.ImageTk
+import PIL.ImageOps
 
 
 class ReadQR(tk.Frame):
